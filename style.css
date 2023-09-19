@@ -13,9 +13,14 @@
     margin: 10px;
 }
 
-.operator {
+.signs {
     display: grid;
     grid-template: 1fr 1fr / 1fr 1fr;
     gap: 5px;
+    margin: 10px;
+}
+
+.actions {
+    display: flex;
     margin: 10px;
 }
